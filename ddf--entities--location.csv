@@ -1,0 +1,251 @@
+location,name
+abw,Aruba
+afg,Afghanistan
+ago,Angola
+aia,Anguilla
+alb,Albania
+and,Andorra
+ant,Netherlands Antilles
+are,United Arab Emirates
+arg,Argentina
+arm,Armenia
+atf,French Southern and Antarctic Lands
+atg,Antigua and Barbuda
+aus,Australia
+aut,Austria
+aze,Azerbaijan
+bdi,Burundi
+bel,Belgium
+ben,Benin
+bfa,Burkina Faso
+bgd,Bangladesh
+bgr,Bulgaria
+bhr,Bahrain
+bhs,Bahamas
+bih,Bosnia and Herzegovina
+blr,Belarus
+blz,Belize
+bmu,Bermuda
+bol,Bolivia
+bra,Brazil
+brb,Barbados
+brn,Brunei Darussalam
+btn,Bhutan
+caf,Central African Republic
+can,Canada
+cck,Cocos (Keeling) Islands
+che,Switzerland
+chl,Chile
+chn,China
+civ,Côte d'Ivoire
+cmr,Cameroon
+cod,Congo (Democratic Republic of the)
+cog,Congo
+cok,Cook Islands
+col,Colombia
+com,Comoros
+cpv,Cabo Verde
+cri,Costa Rica
+cub,Cuba
+cxr,Christmas Island
+cym,Cayman Islands
+cyp,Cyprus
+cze,Czech Republic
+deu,Germany
+dji,Djibouti
+dma,Dominica
+dnk,Denmark
+dom,Dominican Republic
+dza,Algeria
+ecu,Ecuador
+egy,Egypt
+eri,Eritrea
+esh,Western Sahara
+esp,Spain
+est,Estonia
+eth,Ethiopia
+fin,Finland
+fji,Fiji
+flk,Falkland Islands
+fra,France
+fro,Faroe Islands
+fsm,Micronesia
+gab,Gabon
+gbr,United Kingdom
+geo,Georgia
+gha,Ghana
+gib,Gibraltar
+gin,Guinea
+glp,Guadeloupe
+gmb,Gambia
+gnb,Guinea-Bissau
+gnq,Equatorial Guinea
+grc,Greece
+grd,Grenada
+grl,Greenland
+gtm,Guatemala
+guf,French Guiana
+guy,Guyana
+hkg,Hong Kong
+hnd,Honduras
+hrv,Croatia
+hti,Haiti
+hun,Hungary
+idn,Indonesia
+ind,India
+iot,British Indian Ocean Territory
+irl,Ireland
+irn,Iran
+irq,Iraq
+isl,Iceland
+isr,Israel
+ita,Italy
+jam,Jamaica
+jor,Jordan
+jpn,Japan
+kaz,Kazakhstan
+ken,Kenya
+kgz,Kyrgyzstan
+khm,Cambodia
+kir,Kiribati
+kna,Saint Kitts and Nevis
+kor,South Korea
+kwt,Kuwait
+lao,Laos
+lbn,Lebanon
+lbr,Liberia
+lby,Libya
+lca,Saint Lucia
+lka,Sri Lanka
+ltu,Lithuania
+lva,Latvia
+mac,Macao
+mar,Morocco
+mda,Moldova
+mdg,Madagascar
+mdv,Maldives
+mex,Mexico
+mhl,Marshall Islands
+mkd,Macedonia
+mli,Mali
+mlt,Malta
+mmr,Myanmar
+mng,Mongolia
+mnp,Northern Mariana Islands
+moz,Mozambique
+mrt,Mauritania
+msr,Montserrat
+mtq,Martinique
+mus,Mauritius
+mwi,Malawi
+mys,Malaysia
+ncl,New Caledonia
+ner,Niger
+nfk,Norfolk Island
+nga,Nigeria
+nic,Nicaragua
+niu,Niue
+nld,Netherlands
+nor,Norway
+npl,Nepal
+nru,Nauru
+nzl,New Zealand
+omn,Oman
+pak,Pakistan
+pan,Panama
+pcn,Pitcairn
+per,Peru
+phl,Philippines
+plw,Palau
+png,Papua New Guinea
+pol,Poland
+prk,North Korea
+prt,Portugal
+pry,Paraguay
+pyf,French Polynesia
+qat,Qatar
+reu,Réunion
+rou,Romania
+rus,Russian Federation
+rwa,Rwanda
+sau,Saudi Arabia
+scg,Serbia and Montenegro
+sdn,Sudan
+sen,Senegal
+sgp,Singapore
+shn,"Saint Helena, Ascension and Tristan da Cunha"
+slb,Solomon Islands
+sle,Sierra Leone
+slv,El Salvador
+som,Somalia
+spm,Saint Pierre and Miquelon
+stp,Sao Tome and Principe
+sur,Suriname
+svk,Slovakia
+svn,Slovenia
+swe,Sweden
+syc,Seychelles
+syr,Syrian Arab Republic
+tca,Turks and Caicos Islands
+tcd,Chad
+tgo,Togo
+tha,Thailand
+tjk,Tajikistan
+tkl,Tokelau
+tkm,Turkmenistan
+tls,Timor-Leste
+ton,Tonga
+tto,Trinidad and Tobago
+tun,Tunisia
+tur,Turkey
+tuv,Tuvalu
+tza,Tanzania
+uga,Uganda
+ukr,Ukraine
+ury,Uruguay
+usa,United States of America
+uzb,Uzbekistan
+vct,Saint Vincent and the Grenadines
+ven,Venezuela
+vgb,Virgin Islands (British)
+vnm,Vietnam
+vut,Vanuatu
+wlf,Wallis and Futuna
+wsm,Samoa
+yem,Yemen
+zaf,South Africa
+zmb,Zambia
+zwe,Zimbabwe
+twn,Taiwan
+ans,Undeclared Countries
+lux,Luxembourg
+asm,American Samoa
+ata,Antarctica
+bvt,Bouvet Island
+bwa,Botswana
+gum,Guam
+hmd,Heard and McDonald Islands
+lso,Lesotho
+myt,Mayotte
+nam,Namibia
+pse,Palestine
+sgs,South Georgia and South Sandwich Islds.
+smr,San Marino
+swz,Swaziland
+umi,United States Minor Outlying Islands
+vat,Vatican City
+srb,Serbia
+mne,Montenegro
+bes,Bonaire
+cuw,Curaçao
+sxm,St-Martin / St Maarten
+ssd,South Sudan
+blm,Saint Barthélemy
+csk,Czechoslovakia
+pci,Fmr. Pacific Islands
+sun,Former USSR
+ymd,Fmr Dem. Yemen
+yug,Yugoslavia
+pcz,Panama Canal Zone
+vdr,Fmr Dem. Rep. of Vietnam
+vir,Virgin Islands (U.S.)
